@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/TicketSalesWebApp/web/request_tickets.jsp</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/TicketSalesWebApp/src/java/za/ac/tut/Controller/RequestTicket.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/TicketSalesWebApp/web/request_ticket_outcome.jsp</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/TicketSalesWebApp/src/java/za/ac/tut/Controller/GetAvailableTickets.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/TicketSalesWebApp/web/get_available_tickets.jsp</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/TicketSalesWebApp/web/get_available_tickets_outcome.jsp</file>
+        </group>
+    </open-files>
+</project-private>
